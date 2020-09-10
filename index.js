@@ -8,3 +8,7 @@ function sayHello(name) {
 function createWorld(name) {
   console.log(`This new world is called ${name}`);
 }
+
+console.log('wip1');
+console.log('wip2');
+console.log('wip3');
