@@ -5,3 +5,6 @@ function sayHello(name) {
   console.log('change in topic2 once');
 }
 
+function createWorld(name) {
+  console.log(`This new world is called ${name}`);
+}
